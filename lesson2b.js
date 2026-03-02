@@ -1,6 +1,5 @@
 // if else statements 
 // works forboth true and false 
-
 let age =33
 if (age>= 14){
     console.log("you can watch the movie");
