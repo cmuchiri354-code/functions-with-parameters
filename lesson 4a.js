@@ -54,3 +54,13 @@ function multiplication(num1,num2){
 multiplication(104,77)
 multiplication(55,10.2)
 multiplication(33,88)
+
+
+// example 4
+// simple interest 
+function simpleinterest(p,r,t){
+    answer=p*r*t
+    console.log("the interest is"  + answer)
+}
+// call the function 
+simpleinterest(120000,0.6,2)
